@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<sub>.[**main**](https://github.com/gldnwindy) ♡ [**ata**](https://sugucurse.atabook.org/) ♡
+<sub>[**main**](https://github.com/gldnwindy) ♡ [**ata**](https://sugucurse.atabook.org/) ♡
 [**matching**](https://fluffle.cc/weathersui)
 
 
